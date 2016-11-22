@@ -1,6 +1,6 @@
 {
   "name": "fie-toolkit-blue",
-  "version": "2.0.2",
+  "version": "1.0.0",
   "description": "基于FIE+React+Redux+Blue的多页面应用解决方案",
   "main": "index.js",
   "fieOption": {
@@ -28,57 +28,14 @@
       "email": "telljsn@sina.cn"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fieteam/fie-toolkit-blue.git"
+  },
   "changeLog": [
     {
-      "version": "2.0.2",
-      "log": [
-        "feat: isv引用资源版本号修改为覆盖式发布",
-        "feat: 删除gulpfile",
-        "feat: 同步更新版本后命令删除,fie.config.js默认命令删除"
-      ]
-    },
-    {
-      "version": "2.0.1",
-      "log": [
-        "feat: 删除自动生成页面的layout部分",
-        "feat: 删除html中的vendor部分"
-      ]
-    },
-    {
-      "version": "2.0.0",
-      "log": [
-        "refactor: 重构apiMap部分"
-      ]
-    },
-    {
-      "version": "1.0.4",
-      "log": [
-        "feat: 为submodule机制添加alias"
-      ]
-    },
-    {
-      "version": "1.0.3",
-      "log": [
-        "fix: 修改默认的blue地址"
-      ]
-    },
-    {
-      "version": "1.0.2",
-      "log": [
-        "gulpfile更新demo版本号bugfix"
-      ]
-    },
-    {
-      "version": "1.0.1",
-      "log": [
-        "更新readme"
-      ]
-    },
-    {
       "version": "1.0.0",
-      "log": [
-        "初始化模板"
-      ]
+      "log": "初始化模板"
     }
   ],
   "keywords": [

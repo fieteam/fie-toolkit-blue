@@ -2,8 +2,6 @@
 
 > **PC 端** React 工程开发套件，集成了 集成了 React + Redux + React-Router + Fusion的开发环境。
 
-> 本套件对`fie-toolkit-next`进行了一些改造，使其更加符合聚星台业务线以及ISV同学
-
 ## 说明
 
 > 注: 本套件生成的模板对 **IE8** 及以下的浏览器不兼容, 请确定业务的浏览器支持需求后使用
@@ -14,7 +12,7 @@
 
 ### 无任何依赖的 react 项目
 
- - 项目初始化后，您可以删除 `pages/redux` `pages/router` `pages/home` 页面，只留下 `pages/help` 这个简单的页面。 
+- 项目初始化后，您可以删除 `pages/redux` `pages/router` `pages/home` 页面，只留下 `pages/help` 这个简单的页面。 
 - blue 套件提供了 `fie add sp [name]` 命令，生成的页面便是没有任何依赖的，您可以自由添加自己的 UI 及逻辑。 
 
 
@@ -37,7 +35,7 @@
 $ fie install toolkit-blue
 ```
 
-该套件依赖 [Node.js](http://nodejs.org/) 、 [npm](https://www.npmjs.com/) 、 [fie](https://www.npmjs.com/package/fie) 。请先确保本机已安装了fie的运行环境，若第一次使用，请[参考该文档进行环境搭建](https://www.npmjs.com/package/fie)。
+该套件依赖 [Node.js](http://nodejs.org/) 、 [npm](https://www.npmjs.com/) 、 [fie](https://github.com/fieteam/fie/tree/master) 。请先确保本机已安装了fie的运行环境，若第一次使用，请[参考该文档进行环境搭建](https://github.com/fieteam/fie/tree/master)。
 
 
 ## 参数配置
