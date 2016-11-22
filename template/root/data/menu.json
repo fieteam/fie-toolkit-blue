@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "children": [],
+      "id": 9,
+      "style": "color:red",
+      "title": "11.11看板",
+      "url": "//jxtportal.taobao.com/singlesday/pcDashboard.htm"
+    },
+    {
+      "children": [],
+      "id": 1,
+      "title": "首页",
+      "url": "//juxingtai.taobao.com/jxt/index.htm"
+    },
+    {
+      "children": [
+        {
+          "code": "ecrm-ecrm",
+          "id": 304,
+          "title": "客户列表",
+          "url": "//jxtportal.taobao.com/customer/ecrm_member_list.htm"
+        },
+        {
+          "id": 305,
+          "title": "客户分析",
+          "url": "//juxingtai.taobao.com/jxt/customer/insight.htm"
+        },
+        {
+          "id": 302,
+          "title": "客户分群",
+          "url": "//juxingtai.taobao.com/jxt/customer/crowdList.htm",
+          "whiteListId": 1002
+        }
+      ],
+      "id": 3,
+      "title": "客户管理",
+      "url": ""
+    },
+    {
+      "children": [
+        {
+          "icon": "//img.alicdn.com/tps/TB1R4U7NXXXXXbGXXXXXXXXXXXX-92-28.png",
+          "id": 206,
+          "title": "访客运营",
+          "url": "//jxtportal.taobao.com/strategy/visitor/index.htm"
+        },
+        {
+          "id": 207,
+          "title": "粉丝运营",
+          "url": "//jxtportal.taobao.com/strategy/fans/index.htm",
+          "whiteListId": 1025
+        },
+        {
+          "id": 208,
+          "title": "会员运营",
+          "url": "//jxtportal.taobao.com/strategy/member/index.htm"
+        }
+      ],
+      "id": 2,
+      "title": "运营计划",
+      "url": ""
+    }
+  ],
+  "state": 1
+}
