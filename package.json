@@ -1,6 +1,6 @@
 {
   "name": "fie-toolkit-blue",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "基于FIE+React+Redux+Blue的多页面应用解决方案",
   "main": "index.js",
   "fieOption": {
@@ -33,6 +33,10 @@
     "url": "git://github.com/fieteam/fie-toolkit-blue.git"
   },
   "changeLog": [
+    {
+      "version": "2.2.0",
+      "log": "add default appkey"
+    },
     {
       "version": "2.1.0",
       "log": "项目内部重构"
