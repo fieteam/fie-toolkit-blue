@@ -1,6 +1,7 @@
 {
   "name": "<{%=fileName%}>",
   "description": "<{%=fileName%}>",
+  "appKey": "<{%=appKey%}>",
   "version": "0.1.0",
   "keyword": [
     "next",
