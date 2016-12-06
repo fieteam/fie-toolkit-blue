@@ -35,7 +35,10 @@
   "changeLog": [
     {
       "version": "2.2.1",
-      "log": "默认模板依赖包调整"
+      "log": [
+        "fix: 删除appkey强校验",
+        "feat: 修改ui样式引用地址"
+      ]
     },
     {
       "version": "2.2.0",
