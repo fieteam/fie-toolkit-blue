@@ -1,6 +1,6 @@
 {
   "name": "fie-toolkit-blue",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "基于FIE+React+Redux+Blue的多页面应用解决方案",
   "main": "index.js",
   "fieOption": {
